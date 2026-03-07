@@ -3,9 +3,11 @@
 This repository contains my daily Python practice programs.
 
 ## Programs
-- Prime number check
-- sum of first n
-- digit counting
-- factorial
-- reverse a number
-- 
+- Prime Number Check
+- Sum of First n
+- Digit Counting
+- Factorial
+- Reverse a Number
+- Largest of N
+- fabonacci Series
+- GCD(greatest common divisor)
